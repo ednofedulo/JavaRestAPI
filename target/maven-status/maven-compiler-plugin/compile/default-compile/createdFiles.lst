@@ -1,0 +1,6 @@
+com\fedulo\JavaRestAPI\bean\Credentials.class
+com\fedulo\JavaRestAPI\endpoint\Authentication.class
+com\fedulo\JavaRestAPI\Application.class
+com\fedulo\JavaRestAPI\endpoint\UserService.class
+com\fedulo\JavaRestAPI\provider\GsonMessageBodyHandler.class
+com\fedulo\JavaRestAPI\provider\AuthenticationFilter.class
